@@ -1,0 +1,25 @@
+{
+    // Don't make changes to this file directly as they can get wiped out when the
+    // plugin is updated. Instead transfer what you need to the 'Settings - User' file.
+
+    // Backup dir
+    "backup_dir": "C:/sublime_backups",
+
+    // Backup file on open
+    "backup_on_open_file": false,
+
+    // Backup file on pre save
+    "backup_on_pre_save": true,
+
+    // Backup file on post save
+    "backup_on_post_save": false,
+
+    // Add date directory in backup path
+    "backup_path_dir_date": false,
+
+    // Add filename directory in backup path
+    "backup_path_dir_filename": false,
+
+    // Max file size
+    "max_backup_file_size_bytes": 1048576, // 1MB
+}
